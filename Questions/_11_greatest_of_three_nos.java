@@ -22,5 +22,6 @@ public class _11_greatest_of_three_nos {
             System.out.println(third+"is the greatest number");
         }
 
+        input.close();
     }
 }

@@ -7,6 +7,7 @@ public class _08_temp_convertor{
         float fahrenheit=input.nextFloat();
         float celcius=(fahrenheit-32)*5/9;
         System.out.println("your temp is: "+celcius+"C");
+        input.close();
 
     }
 }

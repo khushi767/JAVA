@@ -8,7 +8,7 @@
 
  */
 
-public class Datatypes_03 {
+public class _03_Datatypes {
     public static void main(String args[]){
         int a=5;
         System.out.println(a);

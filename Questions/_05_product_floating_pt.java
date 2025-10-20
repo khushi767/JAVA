@@ -9,5 +9,6 @@ public class _05_product_floating_pt {
     double Second=input.nextDouble();
      double multiply=first*Second;
      System.out.println("Result is: "+multiply);
+     input.close();
    } 
 }

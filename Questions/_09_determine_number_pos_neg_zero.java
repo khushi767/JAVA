@@ -14,6 +14,7 @@ public class _09_determine_number_pos_neg_zero {
         else{
             System.out.println("Your number is Negative");
         }
+        input.close();
 
         
     }

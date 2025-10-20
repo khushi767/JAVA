@@ -23,6 +23,6 @@ public class _06_perimter_rectangle{
         double perpendicular=input.nextDouble();
         Double area=0.5*base*perpendicular;
         System.out.println("Area of triangle is: "+area+" cm2");
-
+input.close();
     }
 }

@@ -19,5 +19,6 @@ public class _12_leap_year {
        else{
         System.out.println("your year is not a leap year");
        }
+       input.close();
     }
 }

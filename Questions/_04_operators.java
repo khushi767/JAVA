@@ -15,7 +15,7 @@ System.out.println("Subtraction of two numbers is: "+sub);
 int product=a*b;
 System.out.println("Product of two numbers is: "+product);
 
-
+input.close();
 
     }
 }

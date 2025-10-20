@@ -12,5 +12,6 @@ public class _02_swap_two_numbers {
         System.out.println("Swapping done... ");
         System.out.println("Value of A is: "+a);
         System.out.println("Value of b is: "+b);
+        input.close();
     }
 }

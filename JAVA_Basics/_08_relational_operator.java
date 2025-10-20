@@ -11,6 +11,6 @@ public class _08_relational_operator{
         else{
             System.out.println("Not eligible for License");
         }
-
+input.close();
     }
 }

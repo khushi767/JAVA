@@ -11,7 +11,7 @@ public class _06_operators {
 
         int x=5;
         int y=-x;
-        int z=-y;
+        //int z=-y;
         System.out.println(y);
 
         int a=5;

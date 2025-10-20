@@ -16,6 +16,7 @@ System.out.println("Simple interest is: "+SI);
 System.out.println("Compound interest calculation");
 double CI=principal*Math.pow((1+rate_of_inteterst/100),time);
 System.out.println("Compund interest is: "+CI);
+input.close();
     }
     
 }

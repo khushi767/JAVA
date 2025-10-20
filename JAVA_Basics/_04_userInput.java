@@ -7,7 +7,8 @@ public class _04_userInput{
         System.out.println("Goodmorning "+name);
         System.out.print(name+" ,Also tell me your age");
         int age=input.nextInt();
-        System.out.println("your age is:",age);
+        System.out.println("your age is:"+age);
+        input.close();
     }
 }
 

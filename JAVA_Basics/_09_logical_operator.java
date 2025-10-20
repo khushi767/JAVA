@@ -22,5 +22,6 @@ public class _09_logical_operator {
         System.out.println("you got no disxount");
 
     }
+    input.close();
    } 
 }

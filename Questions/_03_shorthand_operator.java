@@ -9,6 +9,7 @@ public class _03_shorthand_operator {
         int x2=input.nextInt();
         a=a+x2;
         System.out.println(a);
+        input.close();
 
     }
 }
