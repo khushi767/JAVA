@@ -6,6 +6,7 @@ public class _17_factorial {
         int num=input.nextInt();
         long fact=factorial(num);
         System.out.println("Factorial of a number is: "+fact);
+        input.close();
     }
 
     public static long factorial(int num){

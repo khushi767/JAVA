@@ -6,6 +6,7 @@ public class _18_sum_of_digits {
         int num=input.nextInt();
         int sum=sumofDigit(num);
         System.out.println("Sum of digits is: "+sum);
+        input.close();
 
     }
 

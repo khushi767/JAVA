@@ -6,6 +6,7 @@ public class _16_sum_oddnos_tillN {
         int num=input.nextInt();
         int sum=odd_number(num);
         System.out.println("Odd sum till "+num+" is: "+sum);
+        input.close();
 
     }
 
