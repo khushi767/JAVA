@@ -6,7 +6,7 @@ public class input{
         Scanner input=new Scanner(System.in);
         String name=input.nextLine();
         System.out.println("Welcome "+ name+ "kg coding");
-        
+        input.close();
 
     }
 }
