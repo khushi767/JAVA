@@ -24,9 +24,18 @@ public class _03_object_creation {
 
 public class Driver {
     public static void main(String[] args) {
-        Car myCar = new Car(); // creation of object
+      /*  Car myCar = new Car(); // creation of object
         myCar.addfuel(5);
         myCar.drive();
         System.out.println("Fuel left: " + myCar.getcurrentfuellevel());
+        */
+
+        Car swift=new Car();
+        swift.addfuel(6);
+        swift.start();
+        swift.drive();
+        Car startedcar=swift.start();
+        startedcar.drive();
+        swift.start().drive();
     }
 }
