@@ -12,6 +12,7 @@ public record _25_palindrome_no() {
         else{
             System.out.println("your number is not palindrome number: ");
         }
+        input.close();
 
 
     }

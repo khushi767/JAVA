@@ -13,6 +13,17 @@ public class _27_array_utility {
         i++;
     }
     return nums;
+    
    } 
+
+   public static void displayarray(int[] numArray){
+    int i=0;
+    while(i<numArray.length){
+        System.out.print(numArray[i]+" ");
+        i++;
+    }
+    System.out.println();
+   }
+   
     }
 

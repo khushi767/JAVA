@@ -6,6 +6,7 @@ public class _15_multiplication_table{
         System.out.println("Please enter your number:");
         int number=input.nextInt();
         printMultiplication_Table(number);
+        input.close();
     }
 
     public static void printMultiplication_Table(int n){

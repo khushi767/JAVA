@@ -1,4 +1,4 @@
-import java.util.Scanner;
+
 
 public class _26_array_sum_avg {
    public static void main(String[] args) {

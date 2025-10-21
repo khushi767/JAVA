@@ -8,6 +8,7 @@ public class _28_noof_occurence_array {
         int num=input.nextInt();
         int occurrences=noofoccurences(numArr,num);
         System.out.println("your element was found "+occurrences+"times in array");
+        input.close();
     }
 
     public static int noofoccurences(int[] numArr,int num){

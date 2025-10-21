@@ -7,6 +7,7 @@ public class _23_fibonnaci_series {
     int num=input.nextInt();
     System.out.println("here is fibbonaci series: ");
     printFibonnaci(num);
+    input.close();
 
    } 
    public static void printFibonnaci(int num){
