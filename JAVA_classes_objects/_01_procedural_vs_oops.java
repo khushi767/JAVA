@@ -1,8 +1,8 @@
-package JAVA_OOPS;
+//package JAVA_OOPS;
 
-public class _01_procedural_vs_oops {
+//public class _01_procedural_vs_oops {
     
-}
+//}
 /*
  * Procedural me fxns ke andr likhte
  * 
