@@ -20,6 +20,7 @@ public class _18_do_while_loop {
             age=input.nextInt();
         }while(age<0||age>100);
         System.out.println("your age is: "+age);
+        input.close();
 
     }
 }

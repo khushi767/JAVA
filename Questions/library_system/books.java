@@ -6,6 +6,7 @@ static method: gettotalbook(),to get total number of books in library.
 
  * 
  */
+/* 
 
 class books {
     static int totalnoofBooks;
@@ -31,3 +32,4 @@ class books {
     }
     
 }
+*/

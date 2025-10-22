@@ -20,6 +20,7 @@ public class _22_recursion{
         System.out.println("factorial of number is: "+ fact);
         long fac=factorial(num);
         System.out.println(fac);
+        input.close();
         
     }
 

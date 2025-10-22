@@ -10,5 +10,6 @@ public class _39_number_guessing_game {
 
         }while(num!=guess);
         System.out.println("you have successfully guessed the number");
+        input.close();
     }
 }

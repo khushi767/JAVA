@@ -8,6 +8,7 @@ public class _38_password_checker_dowhile {
         System.out.print("please enter your password");
         password=input.next();
     }while(!isValidPassword(password));
+    input.close();
     
 }
 

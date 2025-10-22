@@ -33,6 +33,7 @@ public class Car {
     public float getcurrentfuellevel() {
         return currentfuelinlitres;
     }
+}
 /* 
     @Override
     protected void finalize() throws Throwable {
@@ -40,5 +41,6 @@ public class Car {
         System.out.println("i am done");
     }
 
-    */
+    
 //}
+*/
